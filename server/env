@@ -1,0 +1,5 @@
+MONGODB_URL='mongodb+srv://mohitpesh123:Skyjones@1@cluster0.beavpwv.mongodb.net/?retryWrites=true&w=majority'
+OPENAI_API_KEY=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
+CLOUDINARY_CLOUD_NAME=dvephrt7z
+CLOUDINARY_API_KEY=522519881134291
+CLOUDINARY_API_SECRET=JHovXLZOyPbhfkpm_hMzVcHIqtA
